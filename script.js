@@ -7,7 +7,7 @@ const websiteUrlEl = document.getElementById('website-url')
 const bookmarkscontainer = document.getElementById('bookmarks-container')
 
 let bookmarks = [];
-
+  
 //Show Modal, Focus on Input
 function showModal() {
     modal.classList.add('show-modal')
